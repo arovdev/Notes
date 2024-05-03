@@ -1,5 +1,8 @@
 # Notes Watch App
 
+[![Platform](https://img.shields.io/badge/platform-watchOS-lightgrey.svg)](https://developer.apple.com/watchos/)
+[![Language](https://img.shields.io/badge/language-Swift-orange.svg)](https://developer.apple.com/swift/)
+
 This is a simple application for watchOS that allows users to create and manage notes directly from their Apple Watch.
 
 ## Features
