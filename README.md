@@ -15,7 +15,15 @@ This is a simple application for watchOS that allows users to create and manage 
 
 ## Screenshots
 
-(Include screenshots or gifs of your app in action)
+![Screen Shot 2024-05-03 at 5 41 41 PM](https://github.com/arovdev/Notes/assets/91742629/c330d123-8979-4048-a430-4c75486330a6)
+![Screen Shot 2024-05-03 at 5 38 36 PM](https://github.com/arovdev/Notes/assets/91742629/4548edc2-d51f-4476-95c6-4058e885efc7)
+![Screen Shot 2024-05-03 at 5 37 42 PM](https://github.com/arovdev/Notes/assets/91742629/1d0b57db-942e-4022-90b2-a20783238ca1)
+
+### Videos
+
+https://github.com/arovdev/Notes/blob/main/assets/91742629/3b7e6c44-6f96-4a60-81f0-bf787026b2c6.mov
+
+https://github.com/arovdev/Notes/blob/main/assets/91742629/086e570f-d0d5-4fd0-a62d-3583b97bca48.mov
 
 ## Installation
 
